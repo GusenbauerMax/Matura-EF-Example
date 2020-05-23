@@ -1,0 +1,9 @@
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\bin\Debug\netstandard2.0\Songs.Shared.deps.json
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\bin\Debug\netstandard2.0\Songs.Shared.dll
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\bin\Debug\netstandard2.0\Songs.Shared.pdb
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.csprojAssemblyReference.cache
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.AssemblyInfoInputs.cache
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.AssemblyInfo.cs
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.dll
+C:\Users\Matura\workspace\Songs2\Songs\Songs\Songs.Shared\obj\Debug\netstandard2.0\Songs.Shared.pdb
